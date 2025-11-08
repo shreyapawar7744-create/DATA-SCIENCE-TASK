@@ -1,7 +1,7 @@
 # DATA-SCIENCE-TASK
 dedicated and enthusiastic Computer Science student with a strong interest in Data Science Machine Learning and Cloud Computing.Passionate about analyzing data building innovative solutions and continuously expanding technical knowledge Skilled in programming problem solving and research with a focus on applying technology to real-world challenges.
 
-#Data Science & Machine Learning Portfolio
+Data Science & Machine Learning Portfolio
 This repository serves as a portfolio showcasing my skills in Data Science, Machine Learning (ML), Exploratory Data Analysis (EDA), and Natural Language Processing (NLP), with a focus on applying these techniques to various real-world datasets.
 The projects demonstrate proficiency in Python, common data science libraries, and the complete ML pipeline, from data cleaning and visualization to model building and evaluation.
 
